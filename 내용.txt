@@ -1,0 +1,24 @@
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1
+$ git init
+Initialized empty Git repository in C:/gitExam1/.git/
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$ dir
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$ vim a.txt
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$ dir
+a.txt
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$ vi a.txt
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$ cat a.txt
+a.txt입니다
+한줄더 추가입니다.
+
+user1@DESKTOP-38SD87N MINGW64 /c/gitExam1 (master)
+$
